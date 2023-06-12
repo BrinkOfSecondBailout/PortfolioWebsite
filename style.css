@@ -400,6 +400,11 @@ article .icon {
     color: white;
     font-size: small;
 }
+
+.overlay-text {
+    width: 80%;
+}
+
 .project-img {
     border-radius: 2rem;
     width: 90%;
