@@ -114,6 +114,10 @@
         font-size: 1.25rem;
     }
 
+    .image-content {
+        display: none;
+    }
+
     .title {
         font-size: 2rem;
     }
