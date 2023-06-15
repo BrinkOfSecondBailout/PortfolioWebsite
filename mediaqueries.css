@@ -52,6 +52,12 @@
         margin-top: 0;
     }
 
+    .graduation-container {
+        display: inline;
+        width: 100%;
+        text-align: center;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -114,10 +120,7 @@
         font-size: 1.25rem;
     }
 
-    .graduation-container {
-        display: inline;
-        width: 100%;
-    }
+
 
     .image-content {
         display: none;
