@@ -90,8 +90,9 @@
     .contact-info-container {
         margin: 0;
     }
-
-    .contact-info-container p,
+    .contact-info-container p {
+        font-size: 0.7rem;
+    }
     .nav-links li a {
         font-size: 1rem;
     }
@@ -120,6 +121,9 @@
         font-size: 1.25rem;
     }
 
+    .text-container p {
+        font-size: small;
+    }
 
 
     .image-content {
@@ -132,5 +136,8 @@
 
     .text-container {
         text-align: justify;
+    }
+    .graduation-container p {
+        font-size: small;
     }
 }
