@@ -323,6 +323,28 @@ section {
     /* height: 80%; */
 }
 
+.graduation-icon {
+    width: 110px;
+}
+
+.graduation-container {
+    padding: 1.5rem;
+    position: relative;
+    right: 1.5rem;
+    top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    width: 420px;
+}
+
+
+
+.graduation-container p {
+    font-weight: bold;
+    position: relative;
+    top: 0.6rem;
+}
+
 
 /* EXPERIENCE SECTION */
 
