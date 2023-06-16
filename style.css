@@ -145,6 +145,7 @@ a:hover {
     transform: none;
 }
 
+
 /* SECTIONS */
 
 section {
@@ -170,6 +171,8 @@ section {
 
 .profile-picture {
     border-radius: 100%;
+    box-shadow: 1px 1px 10px rgb(139, 139, 139);
+    border: 1px solid rgb(255, 255, 255)
 }
 
 .section__pic-container {
@@ -300,6 +303,8 @@ section {
 
 .about-pic {
     border-radius: 2rem;
+    box-shadow: 1px 1px 10px rgb(139, 139, 139);
+    border: 1px solid rgb(255, 255, 255)
 }
 
 .arrow {
