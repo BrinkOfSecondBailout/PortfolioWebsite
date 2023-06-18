@@ -8,6 +8,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
 }
 
 html {
@@ -318,9 +319,11 @@ section {
     flex: 1;
     background: white;
     border-radius: 2rem;
-    border: rgb(53, 53, 53) 0.1rem solid;
+    /* border: rgb(53, 53, 53) 0.1rem solid; */
     border-color: rgb(163, 163, 163);
     text-align: center;
+    box-shadow: 1px 1px 10px rgb(139, 139, 139);
+    border: 1px solid rgb(171, 171, 171)
 }
 
 .section-container {
@@ -399,8 +402,10 @@ article .icon {
 }
 
 .color-container {
-    border-color: rgb(163, 163, 163);
+    /* border-color: rgb(163, 163, 163); */
     background: rgb(250, 250, 250);
+    box-shadow: 1px 1px 10px rgb(139, 139, 139);
+    border: 1px solid rgb(171, 171, 171)
 }
 
 .image-content {
@@ -468,11 +473,13 @@ article .icon {
     display: flex;
     justify-content: center;
     border-radius: 2rem;
-    border: rgb(53, 53, 53) 0.1rem solid;
+    /* border: rgb(53, 53, 53) 0.1rem solid; */
     border-color: rgb(163, 163, 163);
     background: (250, 250, 250);
     margin: 2rem auto;
     padding: 0.5rem;
+    box-shadow: 1px 1px 10px rgb(139, 139, 139);
+    border: 1px solid rgb(171, 171, 171)
 }
 
 .contact-info-container {
