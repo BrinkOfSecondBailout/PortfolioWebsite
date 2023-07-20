@@ -173,13 +173,13 @@ section {
 .profile-picture {
     border-radius: 100%;
     box-shadow: 1px 1px 10px rgb(139, 139, 139);
-    border: 1px solid rgb(255, 255, 255)
+    border: 1px solid rgb(255, 255, 255);
 }
 
 .section__pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 500px;
     margin: auto 0;
 }
 
